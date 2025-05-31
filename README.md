@@ -8,3 +8,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a rel="me" href="https://defcon.social/@raphael03franzen">Mastodon</a>
+
+<a href="https://gofund.me/94a82bce">Hilfe für Mila</a>
